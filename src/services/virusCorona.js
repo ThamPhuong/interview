@@ -1,4 +1,3 @@
-import axios from "axios"
 import { getAPI } from './getAPI';
 
 const baseUrl = "https://api.covid19api.com"

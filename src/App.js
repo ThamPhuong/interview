@@ -1,10 +1,10 @@
 import './App.css';
-import Countries from './components/Countries';
+import LamPark from 'page/LamPark';
 
 function App() {
   return (
     <div className="App">
-      <Countries />
+      <LamPark />
     </div>
   );
 }

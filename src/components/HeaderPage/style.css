@@ -1,0 +1,33 @@
+.header {
+	color: white;
+	background-color: #76c7c0;
+}
+
+.header .logo {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.header .ant-menu {
+	background-color: #76c7c0;
+	display: flex;
+	justify-content: end;
+	align-items: center;
+}
+
+.ant-menu-dark.ant-menu-horizontal>.ant-menu-item:hover {
+	background-color: #43a39b;
+}
+
+.header .ant-menu>.ant-menu-item {
+	color: white;
+	text-transform: uppercase;
+}
+
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+	color: rgba(255, 255, 255, 0.65);
+	background: #76c7c0;
+	text-transform: UPPERCASE;
+	padding-left: 10px;
+	border-radius: 5px;
+}

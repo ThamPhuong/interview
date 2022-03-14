@@ -1,0 +1,16 @@
+.paragraph {
+	border: none;
+	border-radius: 5px;
+	background-color: #ececec;
+	padding: 15px 25px;
+	margin:25px 20px 40px;
+}
+
+.paragraph h3.ant-typography {
+	color: #7b8989;
+	margin-bottom: 0;
+}
+
+.paragraph .ant-typography {
+	color: #808080;
+}
